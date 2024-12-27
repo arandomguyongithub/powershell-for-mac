@@ -1,0 +1,2 @@
+1. terminal switch - switches from the powershell to terminal
+2. terminal cmd - emulates the terminal once to run a mac command
